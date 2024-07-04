@@ -34,6 +34,11 @@ Here are a few specific situations that might benefit from Git+GitHub:
 
 
 ## What is the difference between git and github? 
+Git is a program that runs locally on one or more computers. 
+It is actually the version control software itself. 
+
+GitHub is a website that hosts copies of Git repositories in the cloud, 
+and provides a convinent web page based interface for interacting with them. 
 
 ## What is the recommended workflow for using git + github by yourself? 
 ## What is the recommended workflow for using git + github to collaborate with someone? 
